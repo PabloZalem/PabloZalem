@@ -5,11 +5,7 @@
 - 📚 I'm student Science Computer at Anhembi Morumbi Uni
 
 
-<div align="center">
-  <a href="https://github.com/PabloZalem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloZalem&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZalem&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+
   
  <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"width="60">
